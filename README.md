@@ -9,19 +9,13 @@
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [License](#license) -->
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
+Kurva Bézier merupakan jenis kurva yang digunakan secara luas dalam berbagai bidang seperti desain grafis, animasi, dan manufaktur karena kelancarannya. Kurva ini terbentuk dari beberapa titik kontrol yang menentukan bentuk dan arahnya. Pembuatan kurva Bézier cukup sederhana, yaitu dengan menghubungkan titik kontrol tersebut dengan kurva. Kegunaan kurva Bézier sangat beragam dalam kehidupan sehari-hari, seperti dalam pembuatan pola dengan pen tool, animasi yang halus dan realistis, desain produk yang kompleks dan akurat, serta pembuatan huruf yang indah dan unik. Salah satu keunggulan utama kurva Bézier adalah kemudahan dalam mengubah dan memanipulasinya, sehingga dapat menghasilkan desain yang presisi sesuai dengan kebutuhan.
 
 
 ## Technologies Used
@@ -33,11 +27,11 @@
 List the ready features here:
 - Divide and Conquer
 - Brute Force
-- BONUS:)
+- BONUS :)
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./doc/1.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -54,35 +48,5 @@ Provide various use cases and code examples here.
 `write-your-code-here`
 
 
-## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
-
-
-## Room for Improvement
-Include areas you believe need improvement / could be improved. Also add TODOs for future development.
-
-Room for improvement:
-- Improvement to be done 1
-- Improvement to be done 2
-
-To do:
-- Feature to be added 1
-- Feature to be added 2
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- This project was based on [this tutorial](https://www.example.com).
-- Many thanks to...
-
-
 ## Contact
 Created by DIMAS BAGOES | 13522112
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
