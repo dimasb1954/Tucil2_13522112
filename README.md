@@ -37,23 +37,39 @@ List the ready features here:
 
 
 ## Setup
+
 Pastikan anda telah menginstall python pada perangkat anda
 
-Install matplotlib
+Install matplotlib 
 
 https://matplotlib.org/stable/users/installing/index.html
 
+Terminal command 
+
 `python -m pip install -U pip`
+
 `python -m pip install -U matplotlib`
 
 
-
-
 ## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
 
-`write-your-code-here`
+Bila ingin menggunakan program pastikan anda berada di path yang benar yaitu di folder src
+
+`cd src`
+
+Membangun Kurva Bézier Kuadratik dengan algoritma Divide and Conquer
+
+`python mainDC.py`
+
+
+Membangun Kurva Bézier Kuadratik dengan algoritma Brute Force
+
+`python mainDC.py`
+
+
+Membangun Kurva Bézier derajat bebas
+
+`python mainDC.py`
 
 
 ## Contact
