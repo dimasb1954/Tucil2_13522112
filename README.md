@@ -10,7 +10,6 @@
 * [Setup](#setup)
 * [Usage](#usage)
 * [Contact](#contact)
-<!-- * [License](#license) -->
 
 
 ## General Information
@@ -32,13 +31,22 @@ List the ready features here:
 
 ## Screenshots
 ![Example screenshot](./doc/1.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
+![Example screenshot](./doc/2.png)
+![Example screenshot](./doc/3.png)
+![Example screenshot](./doc/4.png)
 
 
 ## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
+Pastikan anda telah menginstall python pada perangkat anda
 
-Proceed to describe how to install / setup one's local environment / get started with the project.
+Install matplotlib
+
+https://matplotlib.org/stable/users/installing/index.html
+
+`python -m pip install -U pip`
+`python -m pip install -U matplotlib`
+
+
 
 
 ## Usage
