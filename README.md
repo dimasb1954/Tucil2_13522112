@@ -69,7 +69,7 @@ Membangun Kurva Bézier Kuadratik dengan algoritma Brute Force
 
 Membangun Kurva Bézier derajat bebas
 
-`python mainDC.py`
+`python bonus.py`
 
 
 ## Contact
