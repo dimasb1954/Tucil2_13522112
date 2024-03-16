@@ -26,7 +26,13 @@ for i in range (0, iteration):
     xRes, yRes = generateBezier(x, y)
     x, y = xRes, yRes
 
+    xShow = []
+    yShow = []
+    for j in range (0, len(x), 2):
+        xShow.append(x[j])
+        yShow.append(y[j])
+
     ax = plt.subplot()
-    ax.plot(x, y, color = 'blue', linestyle = 'solid', linewidth = 2, marker = 'o', markersize = 5, markerfacecolor = 'red', markeredgecolor = 'none')
+    ax.plot(xShow, yShow, color = 'blue', linestyle = 'solid', linewidth = 2, marker = 'o', markersize = 5, markerfacecolor = 'black', markeredgecolor = 'black')
     plt.title(f"Iterasi ke - {i+1}")
     plt.show()

@@ -53,5 +53,6 @@ end = time.time()
 print(end - start, 'ms')
 
 ax = plt.subplot()
-ax.plot(x, y, color = 'blue', linestyle = 'solid', linewidth = 2, marker = 'o', markersize = 5, markerfacecolor = 'red', markeredgecolor = 'none')
+ax.plot(x, y, color = 'blue', linestyle = 'solid', linewidth = 2, marker = 'o', markersize = 5, markerfacecolor = 'black', markeredgecolor = 'black')
+plt.title(f"Divide and Conquer dengan {iteration} iterasi")
 plt.show()
