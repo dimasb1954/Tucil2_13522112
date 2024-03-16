@@ -2,14 +2,14 @@ def midPoint(x1, x2, y1, y2):
     xMid = (x1 + x2)/2
     yMid = (y1 + y2)/2
     return xMid, yMid
-
+    
 def generateMid(x1, x2, x3, y1, y2, y3):
     xMidL, yMidL = midPoint(x1, x2, y1, y2)
     xMidR, yMidR = midPoint(x3, x2, y3, y2)
     xMidM, yMidM = midPoint(xMidL, xMidR, yMidL, yMidR)
     return xMidL, xMidM, xMidR, yMidL, yMidM, yMidR
 
-def generateBezier(arrX, arrY):
+def generateBezierBF(arrX, arrY):
     xRes = []
     yRes = []
     xRes.append(arrX[0])

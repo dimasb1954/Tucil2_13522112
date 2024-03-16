@@ -23,7 +23,7 @@ start = time.time()
 
 for i in range (iteration): 
     
-    xRes, yRes = generateBezier(x, y)
+    xRes, yRes = generateBezierBF(x, y)
     x, y = xRes, yRes
 
 xShow = []

@@ -28,7 +28,7 @@ plt.show()
 
 for i in range (0, iteration): 
     
-    xRes, yRes = generateBezier(x, y)
+    xRes, yRes = generateBezierBF(x, y)
     x, y = xRes, yRes
 
     xShow = []
