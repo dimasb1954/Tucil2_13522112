@@ -30,6 +30,7 @@ List the ready features here:
 
 
 ## Screenshots
+![Example screenshot](./doc/0.png)
 ![Example screenshot](./doc/1.png)
 ![Example screenshot](./doc/2.png)
 ![Example screenshot](./doc/3.png)
