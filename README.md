@@ -64,7 +64,7 @@ Membangun Kurva Bézier Kuadratik dengan algoritma Divide and Conquer
 
 Membangun Kurva Bézier Kuadratik dengan algoritma Brute Force
 
-`python mainDC.py`
+`python mainBF.py`
 
 
 Membangun Kurva Bézier derajat bebas
